@@ -1,4 +1,4 @@
-# import torch
+import torch
 # import cv2
 # import numpy as np
 # from detectron2.engine import DefaultPredictor
