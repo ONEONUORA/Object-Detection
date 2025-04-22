@@ -35,7 +35,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ONEONUORA/Object-Detection.git
-   cd Object-Detection-YOLOv5-Mask-R-CNN-DeepLabv3
+   cd Object-Detection
 
 2. **Set Up a Virtual Environment:**
    ```bash
