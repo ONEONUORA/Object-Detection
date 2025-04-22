@@ -25,7 +25,7 @@ fps = int(cap.get(cv2.CAP_PROP_FPS))
 print(f"Video loaded: {frame_width}x{frame_height} @ {fps} FPS")
 
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-out = cv2.VideoWriter("output_deeplab.mp4", fourcc, fps, (frame_width, frame_height))
+out = cv2.VideoWriter("output_deeplabs.mp4", fourcc, fps, (frame_width, frame_height))
 
 # For processing, I'll use a consistent input size for model to avoid resizing issues
 # Define input size for the model
