@@ -123,8 +123,7 @@ Implement real-time video processing via webcam.
 Add a graphical user interface (GUI) for easier interaction.
 
 **Live Demo Link**
-https://drive.google.com/file/d/1aW6Pdo9zWvRXdYzgX41pCqqv22GgVr_b/view?usp=sharing
-
+https://drive.google.com/file/d/1lv9T9HRWST4JPB2eUrc8tiv3r64rtNZm/view?usp=sharing
 **License**
 
 This project is licensed under the MIT License. See the LICENSE file for details.
